@@ -1,17 +1,17 @@
 {
-    "version": "0.34.0",
+    "version": "0.34.1",
     "description": "An SVG rendering library.",
     "homepage": "https://github.com/RazrFalcon/resvg",
     "license": "MPL-2.0",
     "architecture": {
         "64bit": {
             "url": [
-                "https://github.com/RazrFalcon/resvg/releases/download/v0.34.0/resvg-win64.zip",
-                "https://github.com/RazrFalcon/resvg/releases/download/v0.34.0/usvg-win64.zip"
+                "https://github.com/RazrFalcon/resvg/releases/download/v0.34.1/resvg-win64.zip",
+                "https://github.com/RazrFalcon/resvg/releases/download/v0.34.1/usvg-win64.zip"
             ],
             "hash": [
-                "ea828ddda5477f187ba0b43c914794afa64d90618dc4cdfb6f44879650e78c82",
-                "88f7b48e6ccd0349e74ed0eebe1577a4ff9c8515cf8907815df22be5a7729842"
+                "d2a909366d9c0290c9c46bd31748850a547ee28109bb0ca0ee04e5de75f6730c",
+                "a210f120424affe915e6bba6d6ac6e73f7a9ef0953650db0d8c211370eac14a3"
             ]
         }
     },
