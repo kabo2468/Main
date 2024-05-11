@@ -1,5 +1,5 @@
 {
-    "version": "3.8.3",
+    "version": "3.9.0",
     "homepage": "https://github.com/sumneko/lua-language-server",
     "description": "A language server written in Lua that offers Lua language support.",
     "license": "MIT",
