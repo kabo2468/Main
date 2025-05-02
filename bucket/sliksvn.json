@@ -1,16 +1,16 @@
 {
-    "version": "1.14.2",
+    "version": "1.14.5",
     "description": "A software versioning and revision control system.",
     "homepage": "https://sliksvn.com/",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://sliksvn.com/pub/Slik-Subversion-1.14.2-x64.zip",
-            "hash": "9348c4b28762c9e852429105c20babdb94414524eb03a03e20efd66db5fcabbd"
+            "url": "https://sliksvn.com/pub/Slik-Subversion-1.14.5-x64.zip",
+            "hash": "77d4fe02999dda3bdc3a20e86243ae6ede99aaf072b4c12b0cdedb54d88e954a"
         },
         "32bit": {
-            "url": "https://sliksvn.com/pub/Slik-Subversion-1.14.2-win32.zip",
-            "hash": "d1ea5453db6bfdf6a1886b1f1a5fadbb87d30ee4558cc60356f195e849897f07"
+            "url": "https://sliksvn.com/pub/Slik-Subversion-1.14.5-win32.zip",
+            "hash": "033a4cfd484b6bb43f08d52d99c93748c40e2cb3bcbc30b63912872b6eb8cacc"
         }
     },
     "pre_install": [
