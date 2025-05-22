@@ -1,16 +1,16 @@
 {
-    "version": "0.79.0",
+    "version": "0.80.1",
     "description": "Thin wrapper for Terraform that provides extra tools for keeping Terraform configurations DRY, working with multiple Terraform modules, and managing remote state.",
     "homepage": "https://github.com/gruntwork-io/terragrunt",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gruntwork-io/terragrunt/releases/download/v0.79.0/terragrunt_windows_amd64.exe#/terragrunt.exe",
-            "hash": "dd528d29e3678b212d3e3d476eda175a058911de08dad2f16d68ab53852ba024"
+            "url": "https://github.com/gruntwork-io/terragrunt/releases/download/v0.80.1/terragrunt_windows_amd64.exe#/terragrunt.exe",
+            "hash": "b11ff12101e99adb9d1c5d039171dfd94ccf6b9c92fe3b188d80f51fce4f5bb1"
         },
         "32bit": {
-            "url": "https://github.com/gruntwork-io/terragrunt/releases/download/v0.79.0/terragrunt_windows_386.exe#/terragrunt.exe",
-            "hash": "a6a5dd1fe797babb96016dfe9b57035e0f0059260b08301d56b789765a06f186"
+            "url": "https://github.com/gruntwork-io/terragrunt/releases/download/v0.80.1/terragrunt_windows_386.exe#/terragrunt.exe",
+            "hash": "bd50e56f45366bd0d6d6e558387828c479c4255a0e88ede5ea1cf2cf61bc6b15"
         }
     },
     "bin": "terragrunt.exe",
