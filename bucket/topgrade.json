@@ -1,12 +1,12 @@
 {
-    "version": "16.1.1",
+    "version": "16.2.1",
     "description": "Upgrade everything, keep your system up to date by detecting which tools you use and run their appropriate package managers.",
     "homepage": "https://github.com/topgrade-rs/topgrade",
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/topgrade-rs/topgrade/releases/download/v16.1.1/topgrade-v16.1.1-x86_64-pc-windows-msvc.zip",
-            "hash": "5253d76bae869e2c29e024b0f3770cc36768b027d52e6843a65dab0c4f5496fb"
+            "url": "https://github.com/topgrade-rs/topgrade/releases/download/v16.2.1/topgrade-v16.2.1-x86_64-pc-windows-msvc.zip",
+            "hash": "47a6884c875c6622d3e13036091bd17fdc6bfd9e53d90361e2ccb0263a3ea686"
         }
     },
     "bin": "topgrade.exe",
