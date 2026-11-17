@@ -1,16 +1,16 @@
 {
-    "version": "0.26.12",
+    "version": "0.27.2",
     "description": "An incremental parsing system for programming tools",
     "homepage": "https://tree-sitter.github.io/tree-sitter/",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.26.12/tree-sitter-windows-x64.gz",
-            "hash": "3445cf022efbc3ffcc391a55ccb29a3ce277eea91c719247c2dad4dd9dac70f6"
+            "url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.27.2/tree-sitter-windows-x64.gz",
+            "hash": "230779ee4a729e3044d4a8ed57490b776ea1bac0671d12afbd6f5b4d1878f1d0"
         },
         "32bit": {
-            "url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.26.12/tree-sitter-windows-x86.gz",
-            "hash": "cdfac681b0e448557954a4c80f8aa397308995dc299c01c52469367df3156b0f"
+            "url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.27.2/tree-sitter-windows-x86.gz",
+            "hash": "ee93b60b4c1ca72b7d5f89adfac48a67f68cca48f8ef8aa7d38b04baac13e024"
         }
     },
     "bin": "tree-sitter.exe",
